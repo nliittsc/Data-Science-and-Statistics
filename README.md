@@ -1,0 +1,2 @@
+# Data-Science-and-Statistics
+This repository is a collection of my projects pertaining to data science and statistics. It includes both statistical analyses of data using R and Python, as well as implementations of various algorithms. Presently, there is only one algorithm, which is a latent factor model for predicting amazon product ratings. In the future, I may (hopefully) add more implentations of various algorithms.

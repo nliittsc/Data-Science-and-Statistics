@@ -1,2 +1,3 @@
 This folder contains some past projects that I did, including some things that might've been done for coursework.
 
+`Quora Comment Exploration.ipynb` is an exploratory analysis of a data set that pertained to a final project in a graduate-level machine learning course I took at UC San Diego. The project we decided on was to use a dataset from Kaggle.com which had a series of questions off the website Quora.com, and we were asked to predict whether a Quora comment was "sincere" or "insincere", given we had some data where the labels were known. This notebook is just an exploratory analysis on the data set, to get an idea of what features make a comment on Quora "sincere" or "insincere". It's pretty interesting to see the most popular words found in "insincere" comments.
